@@ -114,3 +114,4 @@ const App = () => {
 export default App;
 
 
+if (typeof module !== "undefined" && module.exports) module.exports = App;
