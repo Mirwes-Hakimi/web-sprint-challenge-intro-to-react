@@ -24,7 +24,7 @@ To succeed in this challenge, you'll need the following technical skills:
 Additionally, the following soft skills will greatly impact your performance:
 
 1. Attention to detail. Make sure there isn't a single character out of place!
-1. Perseverance. Keep trying until you figure it out!
+1. Perseverance. Keep trying until you figure it out!/
 1. Patience. Make sure to read the entire README for important information.
 
 ## Instructions
